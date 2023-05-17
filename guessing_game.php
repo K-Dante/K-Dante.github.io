@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Guessing Game for TIY SINDY</title>
+	<title>Guessing Game for TIYO SINDY</title>
 </head>
 <body>
 	<h1>Guess the Number</h1>
